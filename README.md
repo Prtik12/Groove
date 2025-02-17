@@ -1,40 +1,38 @@
-<<<<<<< HEAD
-# Groove
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Groove
 
-## Getting Started
+Groove is a single-page music player application built with Next.js, TypeScript, Tailwind CSS, Shadcn, and the Jamendo API. The app features a minimalistic, modern design with a dark gradient theme. Users can browse music tracks, play them, and interact with a responsive audio player.
 
-First, run the development server:
+Features
 
-```bash
+Browse and play music from the Jamendo API.
+Minimalistic, dark-themed UI with sky-500 accents.
+Music player controls:
+Play/Pause
+Seek controls
+Volume adjustment
+Track progress bar
+Search for tracks.
+Responsive design for all devices.
+Technologies Used
+
+Next.js (React framework)
+TypeScript (for type safety)
+Tailwind CSS (for styling)
+Shadcn (for UI components)
+Jamendo API (for fetching music tracks)
+Getting Started
+
+To get started with this project locally, follow the steps below:
+
+Prerequisites
+Node.js (>= 16.8)
+npm or yarn
+Installation
+Clone the repository:
+git clone https://github.com/Prtik12/Groove.git
+cd Groove
+Install dependencies:
+npm install
+Run the development server:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 8c71654 (Initial commit from Create Next App)
+Open http://localhost:3000 in your browser.
