@@ -11,7 +11,6 @@
   - Seek controls
   - Volume adjustment
   - Track progress bar
-- **Responsive Design**: Optimized for all screen sizes and devices, ensuring a smooth experience across desktops, tablets, and mobiles.
 
 ## Technologies Used
 
