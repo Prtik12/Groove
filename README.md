@@ -12,7 +12,6 @@
   - Volume adjustment
   - Track progress bar
 - **Responsive Design**: Optimized for all screen sizes and devices, ensuring a smooth experience across desktops, tablets, and mobiles.
-- **Search Tracks**: Easily find tracks using the search feature.
 
 ## Technologies Used
 
